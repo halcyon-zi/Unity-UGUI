@@ -12,7 +12,7 @@ Unity UGUI 主要以下四个部分来组成，**EventSystem事件系统**，**G
 
 ### 二、UGUI Graphic
 
-[UGUI-Graphic详解](/UGUI-Graphic.md)
+[UGUI-Graphic详解](UGUI-Graphic.md)
 
 ### 三、UGUI Layout
 
